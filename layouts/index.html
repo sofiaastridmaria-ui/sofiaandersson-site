@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ .Site.Title }}</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #ffffff;
+      color: #111;
+    }
+
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+      padding: 40px 20px;
+    }
+
+    h1 {
+      text-align: center;
+      font-weight: normal;
+      margin-bottom: 40px;
+    }
+
+    .verk {
+      margin-bottom: 50px;
+    }
+
+    img {
+      width: 100%;
+      height: auto;
+    }
+
+    .text {
+      font-size: 14px;
+      color: #555;
+      margin-top: 8px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Sofia Andersson</h1>
+
+    {{ range (where .Site.RegularPages "Section" "verk").ByWeight }}
+      <div class="verk">
+        <img src="{{ .Params.image }}">
+        <div class="text">
+  <strong>{{ .Title }}</strong><br>
+  {{ .Params.material }}, {{ .Params.year }}
+</div>
+      </div>
+    {{ end }}
+
+  </div>
+</body>
+</html>
+
