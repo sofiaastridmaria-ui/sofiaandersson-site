@@ -1,6 +1,6 @@
 ---
 title: "Historiens ängel"
-weight: 2
+date: 2025-09-03
 images:
   - "/images/verk2.jpg"
   - "/images/verk2b.jpg"
