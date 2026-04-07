@@ -2,6 +2,6 @@
 title: "Zoey"
 weight: 1
 image: "/images/verk1.jpg"
-material: "Olja,Ritkol och Rödkrita på duk"
+material: "Oil,charcoal, red chalk on canvas"
 year: "2025"
-------
+
