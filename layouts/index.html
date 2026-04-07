@@ -44,11 +44,15 @@
   <div class="container">
     <h1>Sofia Andersson</h1>
 
-    {{ range (where .Site.RegularPages "Section" "verk").ByWeight }}
-      <div class="verk">
-      {{ range .Params.images }}
+    {{ range .Params.images }}
   <img src="{{ . }}">
 {{ end }}
+
+<div class="text">
+  <strong>{{ .Title }}</strong><br>
+  {{ .Params.material }}<br>
+  {{ .Params.year }}, {{ .Params.dimensions }}
+</div>
 
 <div class="text">
   <strong>{{ .Title }}</strong><br>
