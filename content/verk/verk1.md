@@ -2,7 +2,7 @@
 title: "Självporträtt med landskap (stor)"
 weight: 1
 image:
-  - "/images/verk1.jpg"
+  - "/image/verk1.jpg"
 material: "Oil and charcoal on canvas"
 year: "2025"
 dimensions: "93 × 183 cm"
