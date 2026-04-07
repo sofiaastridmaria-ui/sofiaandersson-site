@@ -7,3 +7,4 @@ year: "2025"
 ---
 
 Oil, charcoal and red chalk on canvas, 2025
+22 cm x 36 cm
