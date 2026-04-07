@@ -46,13 +46,15 @@
 
     {{ range (where .Site.RegularPages "Section" "verk").ByWeight }}
       <div class="verk">
-        {{ range .Params.images }}
+      {{ range .Params.images }}
   <img src="{{ . }}">
 {{ end }}
-        <div class="text">
+
+<div class="text">
   <strong>{{ .Title }}</strong><br>
-{{ .Params.material }}<br>
-{{ .Params.year }}, {{ .Params.dimensions }}
+  {{ .Params.material }}<br>
+  {{ .Params.year }}, {{ .Params.dimensions }}
+</div>
 </div>
       </div>
     {{ end }}
