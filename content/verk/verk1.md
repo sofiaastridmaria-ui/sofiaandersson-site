@@ -2,6 +2,6 @@
 title: "Zoey"
 weight: 1
 image: "/images/verk1.jpg"
-material: "Oil, charcoal and red chalk on canvas"
+material: "TEST ENGLISH TEXT"
 year: "2025" 
 
