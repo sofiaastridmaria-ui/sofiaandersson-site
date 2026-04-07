@@ -1,6 +1,6 @@
 ---
 title: "Självporträtt med landskap (stor)"
-weight: 1
+date: 2025-09-02
 image: "/images/verk1.jpg"
 material: "Oil and charcoal on canvas"
 year: "2025"
