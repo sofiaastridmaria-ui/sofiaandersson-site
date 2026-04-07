@@ -43,7 +43,7 @@
 <body>
   <div class="container">
     <h1>Sofia Andersson</h1>
-{{ range sort (where .Site.RegularPages "Section" "verk") "Params.year" "desc" }}
+{{ range sort (where .Site.RegularPages "Section" "verk") "Date" "desc" }}
     <div class="verk">
 
     {{ with .Params.image }}
