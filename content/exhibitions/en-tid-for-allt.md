@@ -35,7 +35,15 @@ Photo by Jean-Baptiste Béranger and Alva Nylander
 
 ![bild](/images/utstallning6.jpg)
 
-<b>
+<br>
+
+![bild](/images/utstallning7.jpg)
+
+<br>
+
+![bild](/images/utstallning8.jpg)
+
+
 
 ![bild](/images/utstallning7.jpg)
 
