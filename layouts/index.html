@@ -54,12 +54,15 @@
       <img src="{{ . }}">
     {{ end }}
 
-    <div class="text">
-      <strong>{{ .Title }}</strong><br>
-      {{ .Params.material }}<br>
-      {{ .Params.year }}, {{ .Params.dimensions }}
-    </div>
+   <div class="text">
+  <strong>{{ .Title }}</strong><br>
+  {{ .Params.material }}<br>
+  {{ .Params.year }}, {{ .Params.dimensions }}
 
+  {{ with .Params.photo }}
+    <br><span style="font-size:12px; color:#777;">Photo: {{ . }}</span>
+  {{ end }}
+</div>
   </div>
 {{ end }}
    
