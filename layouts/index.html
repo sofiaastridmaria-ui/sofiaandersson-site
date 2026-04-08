@@ -43,6 +43,10 @@
 <body>
   <div class="container">
     <h1>Sofia Andersson</h1>
+    <nav style="text-align:center; margin-bottom:40px;">
+  <a href="/" style="margin: 0 12px; color:#111; text-decoration:none; font-size:14px;">Selected works</a>
+  <a href="/exhibitions/" style="margin: 0 12px; color:#111; text-decoration:none; font-size:14px;">Utställningar</a>
+</nav>
 {{ range sort (where .Site.RegularPages "Section" "verk") "Date" "desc" }}
     <div class="verk">
 
