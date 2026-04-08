@@ -1,7 +1,7 @@
 ---
 title: "Installationsbild av Titta ned på landskap III"
 date: 2025-08-29
-image:  
+images:  
 - "/images/verk4.jpg"
 - "/images/verk4b.jpg"
 material: "Graphite on canvas"
