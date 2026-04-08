@@ -1,6 +1,7 @@
 ---
 title: "En tid för allt"
 date: 2025-01-01
+layout: "exhibition"
 ---
 
 En tid för allt
