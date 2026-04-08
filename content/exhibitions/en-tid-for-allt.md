@@ -43,7 +43,7 @@ Photo by Jean-Baptiste Béranger and Alva Nylander
 
 ![bild](/images/utstallning8.jpg)
 
-
+<br> 
 
 ![bild](/images/utstallning7.jpg)
 
