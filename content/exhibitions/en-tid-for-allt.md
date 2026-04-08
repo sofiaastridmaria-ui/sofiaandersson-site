@@ -19,7 +19,7 @@ Photo by Jean-Baptiste Béranger and Alva Nylander
 ![bild](/images/utstallning2.jpg)
 
 <br>
-
+ 
 ![bild](/images/utstallning3.jpg)
 
 <br>
