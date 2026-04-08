@@ -1,1 +1,12 @@
+---
+title: "En tid för allt"
+date: 2025-01-01
+---
 
+En tid för allt
+
+11/10 2025 - 20/10 2025
+
+Galleri Mejan
+
+Photo by Jean-Baptiste Béranger and Alva Nylander
