@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ .Title }}</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #fff;
+      color: #111;
+    }
+
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+      padding: 40px 20px;
+    }
+
+    nav {
+      text-align: center;
+      margin-bottom: 40px;
+    }
+
+    nav a {
+      margin: 0 12px;
+      color: #111;
+      text-decoration: none;
+      font-size: 14px;
+    }
+
+    nav a:hover {
+      text-decoration: underline;
+    }
+
+    h1 {
+      text-align: center;
+      font-weight: normal;
+      margin-bottom: 40px;
+    }
+
+    .exhibition {
+      margin-bottom: 30px;
+    }
+
+    .exhibition-title {
+      font-weight: bold;
+      margin-bottom: 4px;
+    }
+
+    .exhibition-info {
+      color: #555;
+      font-size: 14px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <nav>
+      <a href="/">Verk</a>
+      <a href="/utstallningar/">Utställningar</a>
+    </nav>
+
+    <h1>{{ .Title }}</h1>
+
+    <div class="exhibition">
+      <div class="exhibition-title">Exempelutställning</div>
+      <div class="exhibition-info">Galleri Exempel, Stockholm, 2025</div>
+    </div>
+
+    <div class="exhibition">
+      <div class="exhibition-title">En annan utställning</div>
+      <div class="exhibition-info">Bonniers Konsthall, Stockholm, 2024</div>
+    </div>
+  </div>
+</body>
+</html>
