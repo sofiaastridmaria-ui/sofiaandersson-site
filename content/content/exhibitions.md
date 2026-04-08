@@ -1,0 +1,4 @@
+---
+title: "Exhibitions"
+layout: "Exhibitions"
+---
