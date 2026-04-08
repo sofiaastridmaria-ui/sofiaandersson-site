@@ -21,3 +21,16 @@ Photo by Jean-Baptiste Béranger and Alva Nylander
 <br>
 
 ![bild](/images/utstallning3.jpg)
+
+<br>
+
+![bild](/images/utstallning4.jpg)
+
+<br>
+
+![bild](/images/utstallning5.jpg)
+
+<br>
+
+
+![bild](/images/utstallning6.jpg)
