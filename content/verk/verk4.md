@@ -1,8 +1,9 @@
 ---
-title: "Självporträtt efter Bonnards Le Boxeur"
+title: "Installationsbild av Titta ned på landskap III"
 date: 2025-08-29
 image: "/images/verk4.jpg"
-material: "Oil on canvas"
+material: "Graphite on canvas"
 year: "2025"
-dimensions: "22 x 36 cm"
+dimensions: "18,5 x 48 cm"
+photo: Jean-Baptiste Béranger
 ---
