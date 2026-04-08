@@ -45,5 +45,5 @@ Photo by Jean-Baptiste Béranger and Alva Nylander
 
 <br> 
 
-![bild](/images/utstallning7.jpg)
+![bild](/images/utstallning9.jpg)
 
