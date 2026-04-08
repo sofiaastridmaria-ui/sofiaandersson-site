@@ -64,15 +64,13 @@
 
     <h1>{{ .Title }}</h1>
 
-    <div class="exhibition">
-      <div class="exhibition-title">Exempelutställning</div>
-      <div class="exhibition-info">Galleri Exempel, Stockholm, 2025</div>
+   {{ range .Pages }}
+  <div class="exhibition">
+    <div class="exhibition-title">
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a>
     </div>
-
-    <div class="exhibition">
-      <div class="exhibition-title">En annan utställning</div>
-      <div class="exhibition-info">Bonniers Konsthall, Stockholm, 2024</div>
-    </div>
+  </div>
+{{ end }}
   </div>
 </body>
 </html>
