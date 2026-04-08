@@ -12,12 +12,12 @@ Galleri Mejan
 
 Photo by Jean-Baptiste Béranger and Alva Nylander
 
-![bild](/images/utställning1.jpg)
+![bild](/images/utstallning1.jpg)
 
 <br>
 
-![bild](/images/utställning2.jpg)
+![bild](/images/utstallning2.jpg)
 
 <br>
 
-![bild](/images/utställning3.jpg)
+![bild](/images/utstallning3.jpg)
