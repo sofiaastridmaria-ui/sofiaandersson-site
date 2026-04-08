@@ -1,8 +1,8 @@
 ---
-title: "Självporträtt med landskap (liten)"
+title: "Ängel i fönster"
 date: 2025-08-30
 image: "/images/verk3.jpg"
-material: "Oil and charcoal on canvas"
-year: "2025"
-dimensions: "22 x 36 cm"
+material: "Charcoal on canvas, wooden frame"
+year: "2024"
+dimensions: "65 x 45 cm"
 ---
