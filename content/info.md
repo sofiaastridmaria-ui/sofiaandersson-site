@@ -11,19 +11,19 @@ sofiaastridmaria@gmail.com
 Instagram:
 @sofiaastridmaria
 
-Education
-2024 – 2026 Kungliga Konsthögskolan / Masterprogram 
-2024 okt – 2025 feb, Hochschule für Grafik und Buchkunst Leipzig / Erasmus exchange
-2021 – 2024, Kungliga Konsthögskolan / Bachelor
-2019 – 2021, Konstskolan Idun Lovén 
-2018 – 2019, Wik folkhögskola
+Education<br>
+2024 – 2026 Kungliga Konsthögskolan / Masterprogram<br>
+2024 okt – 2025 feb, Hochschule für Grafik und Buchkunst Leipzig / Erasmus exchange<br>
+2021 – 2024, Kungliga Konsthögskolan / Bachelor<br>
+2019 – 2021, Konstskolan Idun Lovén<br>
+2018 – 2019, Wik folkhögskola
 
-Selected Solo Exhibitions
+Selected Solo Exhibitions<br>
 2026 – To everything (turn, turn, turn), StudyForArtPlatform, Stockholm
 2025 – En tid för allt, Galleri Mejan, Stockholm
 2022 – En Utställningsserie, Puente Piedra Gallery och Magniberg, Stockholm
 					
-Selected Group Exhibitions
+Selected Group Exhibitions<br>
 2026 – Part projects, Skeppsbron 8, Stockholm
 2026 – Kungliga Konsthögskolans masterutställning, Konstakademien, Stockholm
 2025 – Wishes, Farsta Galleri, Stockholm
@@ -33,7 +33,7 @@ Selected Group Exhibitions
 2025 – Sure Maybe Soon, SMS Gallery, Leipzig
 2023 – Kungliga Konsthögskolans Kandidatutställning, Marabouparken, Stockholm
 
-Awards and Grants
+Awards and Grants<br>
 2026 – Stiftelsen Anna-Lisa Thomson 
 2026 – Helge Axson Jonssons stiftelse
 2026 – Uppsala kommuns stipendium för nyexaminerad bildkonstnär
