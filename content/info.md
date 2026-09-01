@@ -40,5 +40,5 @@ Awards and Grants\
 2025 – Konstakademiens stipendium för konststudenter och unga konstnärer\
 2024 – Stiftelsen AAA\
 2023 – Stiftelsen AAA\
-2021 – Gustav och Ida Unmans Donationsfond\
+2021 – Gustav och Ida Unmans Donationsfond
 
