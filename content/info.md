@@ -9,7 +9,7 @@ Contact:
 sofiaastridmaria@gmail.com
 
 Instagram:
-@sofiaastridmaria@gmail.com
+@sofiaastridmaria
 
 Education
 2024 – 2026 Kungliga Konsthögskolan / Masterprogram 
