@@ -34,7 +34,7 @@ Selected Group Exhibitions\
 2023 – Kungliga Konsthögskolans Kandidatutställning, Marabouparken, Stockholm
 
 Awards and Grants\
-2026 – Stiftelsen Anna-Lisa Thomson\ 
+2026 – Stiftelsen Anna-Lisa Thomson\
 2026 – Helge Axson Jonssons stiftelse\
 2026 – Uppsala kommuns stipendium för nyexaminerad bildkonstnär\
 2025 – Konstakademiens stipendium för konststudenter och unga konstnärer\
