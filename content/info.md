@@ -35,7 +35,7 @@ Selected Group Exhibitions<br>
 
 Awards and Grants<br>
 2026 – Stiftelsen Anna-Lisa Thomson 
-2026 – Helge Axson Jonssons stiftelse
+2026 – Helge Axson Jonssons stiftelse 
 2026 – Uppsala kommuns stipendium för nyexaminerad bildkonstnär
 2025 – Konstakademiens stipendium för konststudenter och unga konstnärer
 2024 – Stiftelsen AAA
