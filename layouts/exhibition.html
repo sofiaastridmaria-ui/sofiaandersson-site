@@ -22,6 +22,23 @@
 
   <p>{{ .Content }}</p>
 
+  {{- with .Params.gallery }}
+    {{- $dir := printf "static/%s" (strings.TrimPrefix "/" .) }}
+    {{- if fileExists $dir }}
+      {{- $items := slice }}
+      {{- range os.ReadDir $dir }}
+        {{- if and (not .IsDir) (findRE `(?i)\.(jpe?g|png|gif|webp|avif)$` .Name) }}
+          {{- $num := index (findRE `\d+` .Name 1 | default (slice "0")) 0 }}
+          {{- $items = $items | append (dict "name" .Name "key" (printf "%03d%s-%s" (len $num) $num .Name)) }}
+        {{- end }}
+      {{- end }}
+      {{- range $i, $img := sort $items "key" }}
+        {{- if $i }}<br>{{ end }}
+        <img src="/{{ strings.TrimPrefix "/" $.Params.gallery }}/{{ $img.name }}" alt="{{ $.Title }}" loading="lazy">
+      {{- end }}
+    {{- end }}
+  {{- end }}
+
   <p><a href="/exhibitions/">← Back to exhibitions</a></p>
 </div>
 
