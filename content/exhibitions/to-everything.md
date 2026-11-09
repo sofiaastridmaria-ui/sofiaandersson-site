@@ -5,6 +5,8 @@ layout: "exhibition"
 gallery: "images/to-everything"
 ---
 
+Komposition med stol (5):
+
 To everything (turn, turn, turn)
 
 28/8 2026 - 19/9 2026
