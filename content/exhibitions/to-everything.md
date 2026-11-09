@@ -2,6 +2,7 @@
 title: "To everything (turn, turn, turn)"
 date: 2026-08-28
 layout: "exhibition"
+gallery: "images/to-everything"
 ---
 
 To everything (turn, turn, turn)
